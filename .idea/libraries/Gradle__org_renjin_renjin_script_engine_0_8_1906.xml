@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.renjin:renjin-script-engine:0.8.1906">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-script-engine/0.8.1906/2d9bdd17c25cd1c1f1e37adf302951af8e48c839/renjin-script-engine-0.8.1906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-script-engine/0.8.1906/7b736d905d36c46415d5927e838910782b6b3b7e/renjin-script-engine-0.8.1906-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

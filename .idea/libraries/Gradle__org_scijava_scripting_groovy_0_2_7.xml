@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-groovy:0.2.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-groovy/0.2.7/bd8fdb4f53c221ea04d86a95964683461d9a2460/scripting-groovy-0.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-groovy/0.2.7/844bae5906a339037e9c2b080e08b2ccd8409cab/scripting-groovy-0.2.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

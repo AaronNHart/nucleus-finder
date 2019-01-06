@@ -1,0 +1,26 @@
+apply plugin : 'java'
+compileJava.options.fork = true
+compileJava.options.forkOptions.executable = "/usr/lib/jvm/jdk-11/bin/javac"
+repositories {
+    mavenCentral()
+    maven{
+      url "http://maven.imagej.net/content/repositories/public/"
+    }
+    maven {
+      name 'Unidata'
+      url 'https://artifacts.unidata.ucar.edu/content/repositories/unidata-releases'
+    }
+    maven {
+      url 'https://artifacts.openmicroscopy.org/artifactory/maven/'
+    }
+}
+dependencies {
+    implementation 'com.github.lalyos:jfiglet:0.0.8'
+    // https://mvnrepository.com/artifact/net.imagej/imagej
+    compile group: 'net.imagej', name: 'imagej',      version: '2.0.0-rc-71'
+    compile group: 'ome',        name: 'formats-api', version: '6.0.0-m4'
+    compile group: 'ome',        name: 'formats-bsd', version: '6.0.0-m4'
+    compile group: 'ome',        name: 'formats-gpl', version: '6.0.0-m4'
+}
+apply plugin : 'application'
+mainClassName = 'NucFinder'

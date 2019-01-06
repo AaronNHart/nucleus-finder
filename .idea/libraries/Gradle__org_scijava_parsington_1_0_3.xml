@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:parsington:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/parsington/1.0.3/f9a112f37052a7559272ab9776a6565fa649ae91/parsington-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/parsington/1.0.3/9858cfe2d54d8f8fcea08546d23f19bd3cf88778/parsington-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

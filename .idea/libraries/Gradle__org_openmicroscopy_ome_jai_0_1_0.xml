@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openmicroscopy:ome-jai:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-jai/0.1.0/fb0851fd99ddde915f340f24738ee5f4aedec714/ome-jai-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-jai/0.1.0/c26da4dfc5962ec94bbd3f71032fb28b0cd2ca9e/ome-jai-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

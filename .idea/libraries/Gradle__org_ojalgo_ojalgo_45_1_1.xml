@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ojalgo:ojalgo:45.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ojalgo/ojalgo/45.1.1/8b992c4b765553173a4cd1f4b1f52187886bf0f2/ojalgo-45.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ojalgo/ojalgo/45.1.1/6f311ba159390fd00b8c103a641c4425eb168647/ojalgo-45.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

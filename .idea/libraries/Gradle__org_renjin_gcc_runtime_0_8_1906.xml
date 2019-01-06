@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.renjin:gcc-runtime:0.8.1906">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/gcc-runtime/0.8.1906/6674e4b0417c4ab898e7c8dad49d6f4fd9518e54/gcc-runtime-0.8.1906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/gcc-runtime/0.8.1906/846f126f1cec318db1262bde402dde60604866ac/gcc-runtime-0.8.1906-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

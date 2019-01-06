@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scijava-plugins-platforms:0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-plugins-platforms/0.3.1/9d51502f24506e02257ceb8c0e6d88f739beb1f7/scijava-plugins-platforms-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-plugins-platforms/0.3.1/e1f7587af8a674061382253564a77c2c099d537a/scijava-plugins-platforms-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

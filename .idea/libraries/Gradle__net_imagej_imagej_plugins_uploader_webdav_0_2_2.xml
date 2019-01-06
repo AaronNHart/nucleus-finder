@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-plugins-uploader-webdav:0.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-uploader-webdav/0.2.2/c44b7c8f43195b22ba9200799594c727056523ec/imagej-plugins-uploader-webdav-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-uploader-webdav/0.2.2/a64162862850ea470c58091db76f8b3fb6fb294a/imagej-plugins-uploader-webdav-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

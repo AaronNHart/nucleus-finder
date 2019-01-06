@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.scif:scifio-jai-imageio:1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.scif/scifio-jai-imageio/1.1.1/b739b530a8e27ec019e63f84c2a6fd7a66b60557/scifio-jai-imageio-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.scif/scifio-jai-imageio/1.1.1/3ca4ef2d8bc59609a5b0683d7ac9f63ef17953de/scifio-jai-imageio-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

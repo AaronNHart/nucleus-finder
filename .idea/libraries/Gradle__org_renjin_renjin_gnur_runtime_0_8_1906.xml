@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.renjin:renjin-gnur-runtime:0.8.1906">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-gnur-runtime/0.8.1906/9657dc07e7c3eb4bc53433d759f98ddfe7b7bf39/renjin-gnur-runtime-0.8.1906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-gnur-runtime/0.8.1906/51ba7e2308d36093978116420402c40d82b95559/renjin-gnur-runtime-0.8.1906-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

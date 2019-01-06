@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openmicroscopy:ome-poi:5.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-poi/5.3.3/37154c041a79ec6f7af85d2a22d01376e5370b5c/ome-poi-5.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-poi/5.3.3/1b11df57d82a8712e7451617188f9d0f87cc0089/ome-poi-5.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

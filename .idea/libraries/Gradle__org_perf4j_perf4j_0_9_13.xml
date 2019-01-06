@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.perf4j:perf4j:0.9.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.perf4j/perf4j/0.9.13/f87d2c7db243e028bf4369e5bca1f53614bbd0de/perf4j-0.9.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.perf4j/perf4j/0.9.13/fb0a968d05947bb0b436976b17ae16a221da4691/perf4j-0.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

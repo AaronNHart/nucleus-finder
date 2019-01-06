@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-ops:0.43.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ops/0.43.2/60051e37ac342e1fce46b9704e1d2a902984f8b7/imagej-ops-0.43.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ops/0.43.2/1087f683397288317a89ed7558a0a564361e194c/imagej-ops-0.43.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

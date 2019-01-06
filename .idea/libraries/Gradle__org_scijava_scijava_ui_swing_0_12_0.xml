@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scijava-ui-swing:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-ui-swing/0.12.0/d257a1c072f49dcebe4a5af330524be7c99297e7/scijava-ui-swing-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-ui-swing/0.12.0/6b144f783566f354e58bb4d57b549d283bd3cb4d/scijava-ui-swing-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

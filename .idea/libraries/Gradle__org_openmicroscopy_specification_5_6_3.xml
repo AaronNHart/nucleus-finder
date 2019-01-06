@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openmicroscopy:specification:5.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/specification/5.6.3/46078f8705eebf3bd300edcf2460b17bdb567a11/specification-5.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/specification/5.6.3/449713797e70890b9392531b308710356229e88f/specification-5.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:script-editor:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/script-editor/0.4.0/82fb58f6b948566897eceb9bd54c133c2708dda1/script-editor-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/script-editor/0.4.0/d71a0004853c8c03a4d202b339cecaddde8481e7/script-editor-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

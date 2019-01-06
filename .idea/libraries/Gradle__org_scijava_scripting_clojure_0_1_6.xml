@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-clojure:0.1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-clojure/0.1.6/e1da46fe7d5ea89a33e1661f53be2f8fbf53bbf2/scripting-clojure-0.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-clojure/0.1.6/3d78e145206b2d97c9d31156fb47817ff3876798/scripting-clojure-0.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

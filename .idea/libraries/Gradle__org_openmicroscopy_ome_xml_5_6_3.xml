@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openmicroscopy:ome-xml:5.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-xml/5.6.3/f1a277cb3f44d581e1276edda5bbe13978ed952/ome-xml-5.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/ome-xml/5.6.3/a24f00f99fe3aefff95b13b4b380d1a350a21534/ome-xml-5.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

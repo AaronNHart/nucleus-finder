@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-ui-awt:0.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ui-awt/0.3.1/f67d4784d131de837c27fc5f985aed7ad22e9c36/imagej-ui-awt-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ui-awt/0.3.1/a14fb717d89c942b045179b703c5541d71b375f3/imagej-ui-awt-0.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

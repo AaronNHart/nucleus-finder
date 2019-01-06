@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.renjin:renjin-core:0.8.1906">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-core/0.8.1906/9fc2199c18fe21e1f1095133c36e5fd82ae09eee/renjin-core-0.8.1906.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.renjin/renjin-core/0.8.1906/552758fef4e259d14c2695bf052fc8eb107c075f/renjin-core-0.8.1906-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

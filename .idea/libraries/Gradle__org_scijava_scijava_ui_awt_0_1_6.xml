@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scijava-ui-awt:0.1.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-ui-awt/0.1.6/c6660290df8f97ef98cdc65186d6cf01f607c201/scijava-ui-awt-0.1.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-ui-awt/0.1.6/75a80caeb428c67f981421a366038077df41203d/scijava-ui-awt-0.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-algorithm-fft:0.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-algorithm-fft/0.2.0/1cb48e4d493b1700990e13691c8b90c87d8e4d3b/imglib2-algorithm-fft-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-algorithm-fft/0.2.0/254e849b259e65918248cb6fcd9d56920715c1ba/imglib2-algorithm-fft-0.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

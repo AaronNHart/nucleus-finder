@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.jdatepicker:jdatepicker:1.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.jdatepicker/jdatepicker/1.3.2/c6c548b64b4cbbb21ae5e3997c378278126b3850/jdatepicker-1.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.jdatepicker/jdatepicker/1.3.2/ebecc216dc88ac1425d4fc622fcfe871b1df5047/jdatepicker-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

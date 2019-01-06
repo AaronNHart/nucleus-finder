@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.scif:scifio:0.37.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.scif/scifio/0.37.3/e3af8838d859cd1f44ae7bbd84b5eeb464cc4efa/scifio-0.37.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.scif/scifio/0.37.3/bee3555154aeb2613131068f67e2df1a665f6a3b/scifio-0.37.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

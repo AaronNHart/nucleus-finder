@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-jruby:0.2.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-jruby/0.2.5/175df1d8fa503576ba81651c2af33cb755142773/scripting-jruby-0.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-jruby/0.2.5/66da0643c96b658fa9de031d5ac0db7d0e2ef788/scripting-jruby-0.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

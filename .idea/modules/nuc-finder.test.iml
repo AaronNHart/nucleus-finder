@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="nuc-finder:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="nuc-finder.main" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej:2.0.0-rc-71" level="project" />
+    <orderEntry type="library" name="Gradle: ome:formats-gpl:6.0.0-m4" level="project" />
+    <orderEntry type="library" name="Gradle: ome:formats-bsd:6.0.0-m4" level="project" />
+    <orderEntry type="library" name="Gradle: ome:formats-api:6.0.0-m4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.lalyos:jfiglet:0.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-notebook:0.6.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-ops:0.43.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-updater:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.scif:scifio:0.37.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-plugins-uploader-ssh:0.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-common:0.28.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scijava-table:0.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-plugins-uploader-webdav:0.2.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-ui-swing:0.22.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.imagej:imagej-mesh:0.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scijava-search:0.5.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-plugins-batch:0.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scripting-javascript:0.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:scijava-common:2.77.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-plugins-commands:0.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:specification:5.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-xml:5.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-deprecated:0.1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-plugins-tools:0.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-codecs:0.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:metakit:5.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-scripting:0.8.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-poi:5.3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.imagej:imagej-ui-awt:0.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-common:6.0.0-m2" level="project" />
+    <orderEntry type="library" name="Gradle: ome:jxrlib-all:0.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-plugins-commands:0.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-plugins-platforms:0.3.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:native-lib-loader:2.1.4" level="project" />
+    <orderEntry type="library" name="Gradle: edu.ucar:netcdf:4.3.22" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-plugins-text-markdown:0.1.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-plugins-text-plain:0.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:script-editor:0.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: ome:turbojpeg:6.0.0-m4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:batch-processor:0.3.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-ui-swing:0.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.jgoodies:jgoodies-forms:1.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.esotericsoftware.kryo:kryo:2.24.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.perf4j:perf4j:0.9.13" level="project" />
+    <orderEntry type="library" name="Gradle: io.minio:minio:5.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:25.1-jre" level="project" />
+    <orderEntry type="library" name="Gradle: com.drewnoakes:metadata-extractor:2.6.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-beanshell:0.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-mdbtools:5.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-clojure:0.1.6" level="project" />
+    <orderEntry type="library" name="Gradle: woolz:JWlz:1.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-groovy:0.2.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-java:0.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: joda-time:joda-time:2.7" level="project" />
+    <orderEntry type="library" name="Gradle: ch.systems.cisd:jhdf5:14.12.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-jruby:0.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.json:json:20090211" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-jython:0.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-algorithm:0.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-renjin:0.2.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-roi:0.7.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scripting-scala:0.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:scijava-ui-awt:0.1.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-algorithm-fft:0.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:minimaven:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-cache:1.0.0-beta-9" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2-realtransform:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.imglib2:imglib2:5.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: edu.ucar:udunits:4.3.18" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-text:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.scijava:parsington:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-math3:3.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.joml:joml:1.9.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.ojalgo:ojalgo:45.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: gov.nist.math:jama:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.scif:scifio-jai-imageio:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.bushe:eventbus:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: xalan:xalan:2.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openmicroscopy:ome-jai:0.1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: xalan:serializer:2.7.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.jgoodies:jgoodies-common:1.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.esotericsoftware.minlog:minlog:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.objenesis:objenesis:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.adobe.xmp:xmpcore:5.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: xerces:xercesImpl:2.8.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client-xml:1.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.http-client:google-http-client:1.20.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:renjin-script-engine:0.8.1906" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:methods:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:stats:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.trove4j:trove4j:3.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:datasets:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.8.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:utils:0.8.1906" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:graphics:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: edu.mines:mines-jtk:20151125" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:grDevices:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: com.miglayout:miglayout:swing:3.7.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:renjin-gnur-runtime:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: org.ocpsoft.prettytime:prettytime:4.0.1.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:renjin-core:0.8.1906" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ben-manes.caffeine:caffeine:2.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.9.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby:jruby-core:1.7.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.9.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.3.03" level="project" />
+    <orderEntry type="library" name="Gradle: jitk:jitk-tps:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.checkerframework:checker-qual:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
+    <orderEntry type="library" name="Gradle: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Gradle: net.jcip:jcip-annotations:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.googlecode.efficient-java-matrix-library:ejml:0.24" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.sbridges.object-inspector:object-inspector:0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.iharder:base64:2.3.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.jcraft:jsch:0.1.49" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jfree:jfreechart:1.5.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jhotdraw:jhotdraw:7.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.markdownj:markdownj:0.3.0-1.0.2b4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fifesoft:languagesupport:2.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fifesoft:autocomplete:2.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fifesoft:rsyntaxtextarea:2.6.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: xml-apis:xml-apis:1.3.04" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-vfs2:2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache-extras.beanshell:bsh:2.0b6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.clojure:clojure:1.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.groovy:groovy:2.4.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.ivy:ivy:2.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.gpars:gpars:1.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby:jruby-stdlib:1.7.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:jython-shaded:2.7.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang:scala-compiler:2.12.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scijava:swing-checkbox-tree:1.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sourceforge.jdatepicker:jdatepicker:1.3.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mozilla:rhino:1.7.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.multiverse:multiverse-core:0.7.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.jsr166-mirror:jsr166y:1.7.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-netdb:1.1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-unixsocket:0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-enxio:0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-posix:3.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-ffi:1.0.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ow2.asm:asm-analysis:4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ow2.asm:asm-util:5.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ow2.asm:asm-commons:5.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ow2.asm:asm-tree:5.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.ow2.asm:asm:5.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby.joni:joni:2.1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby.extras:bytelist:1.0.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jnr-constants:0.8.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby.jcodings:jcodings:1.0.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:1.2.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:native:1.2.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.yaml:snakeyaml:1.13" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.jcraft:jzlib:1.1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.headius:invokebinder:1.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.martiansoftware:nailgun-server:0.9.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jruby:yecht:1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.headius:options:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang:scala-reflect:2.12.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang.modules:scala-xml_2.12:1.0.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang:scala-library:2.12.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-math:2.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:renjin-appl:0.8.1906" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.renjin:gcc-runtime:0.8.1906" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.netlib:netlib-java:0.9.3-renjin-patched-2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-compress:1.4.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: edu.emory.mathcs:jtransforms:2.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sf.jung:jung-graph-impl:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sf.jung:jung-api:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.codemodel:codemodel:2.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.netlib:lapack:0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.netlib:f2jutil:0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.netlib:xerbla:0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.netlib:blas:0.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.scm:maven-scm-provider-svnexe:1.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.scm:maven-scm-provider-svn-commons:1.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.scm:maven-scm-api:1.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.tukaani:xz:1.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sourceforge.collections:collections-generic:4.01" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.plexus:plexus-utils:1.5.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: regexp:regexp:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="nuc-finder.main" />
+</module>

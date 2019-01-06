@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-plugins-uploader-ssh:0.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-uploader-ssh/0.3.2/cf0eb19300cd93d22a037b913f1c8baf13dccf4b/imagej-plugins-uploader-ssh-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-uploader-ssh/0.3.2/a84979623aa350e6d054cecb0c7b87075031c5fd/imagej-plugins-uploader-ssh-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

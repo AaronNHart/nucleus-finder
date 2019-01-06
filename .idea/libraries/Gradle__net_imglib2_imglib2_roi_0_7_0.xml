@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-roi:0.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-roi/0.7.0/ad91f5099df4ef50560e5837a2844d658eaed43a/imglib2-roi-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-roi/0.7.0/379fc4aedf7f3f8798ae51dfe41020be6c246f7f/imglib2-roi-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

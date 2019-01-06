@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:batch-processor:0.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/batch-processor/0.3.0/a6a9f78fef63dd0b3c8eef73ad55e4b83227562d/batch-processor-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/batch-processor/0.3.0/37800e92479245e8fc009718252293fc8952e725/batch-processor-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-mesh:0.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-mesh/0.7.1/9bb1ad18f13053a44fdb07dc0df1d0807e09dc6a/imagej-mesh-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-mesh/0.7.1/b5b5352b030e01b9fc313dc05b5014243518e30e/imagej-mesh-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

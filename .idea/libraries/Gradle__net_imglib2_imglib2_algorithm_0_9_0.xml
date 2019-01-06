@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-algorithm:0.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-algorithm/0.9.0/4ae09499cfc72acac7bca90f84fce3567076bc77/imglib2-algorithm-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-algorithm/0.9.0/a7a6c005f0fe7155a509d9984ccdec3ff87a8445/imglib2-algorithm-0.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

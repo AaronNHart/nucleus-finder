@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scijava-common:2.77.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-common/2.77.0/736c6a25295c85de82e780968029e8afc87eec5e/scijava-common-2.77.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-common/2.77.0/a3a5f028a6ccd6d0409ca3b1c4ea8be74488ee/scijava-common-2.77.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

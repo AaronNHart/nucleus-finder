@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-scala:0.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-scala/0.2.1/27a0204215d45ea2cc2ae5024b4bb9b8648a71c4/scripting-scala-0.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-scala/0.2.1/e9926500cfa2aa3c56b1b0263a9250db4ab46871/scripting-scala-0.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

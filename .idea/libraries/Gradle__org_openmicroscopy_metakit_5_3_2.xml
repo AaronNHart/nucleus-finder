@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openmicroscopy:metakit:5.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/metakit/5.3.2/ada3da44a7e3fa2fba59961a910c28770082a5e4/metakit-5.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openmicroscopy/metakit/5.3.2/a3e7a6446cc8a43906f2f2aad887aff7ce8fbf4e/metakit-5.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

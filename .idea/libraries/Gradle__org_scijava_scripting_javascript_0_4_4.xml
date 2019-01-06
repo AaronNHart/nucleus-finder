@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-javascript:0.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-javascript/0.4.4/551e420ff4b43531ec0a875d510b0f8660cce6a6/scripting-javascript-0.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-javascript/0.4.4/ae576fbf798480d14faecfa8938b1785cf41da9c/scripting-javascript-0.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-scripting:0.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-scripting/0.8.2/c08c8c29fbe313a3a0a7ab1cbb0f60b857991d3d/imagej-scripting-0.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-scripting/0.8.2/821389d958b7debec1b62f3812e24df9ab8abdb3/imagej-scripting-0.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

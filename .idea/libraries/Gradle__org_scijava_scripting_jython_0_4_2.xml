@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-jython:0.4.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-jython/0.4.2/8b5959e764677133e34f4615c5bcca5f2f0cb52d/scripting-jython-0.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-jython/0.4.2/a890ec25ac61577328944672ee8d2dc83638376d/scripting-jython-0.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

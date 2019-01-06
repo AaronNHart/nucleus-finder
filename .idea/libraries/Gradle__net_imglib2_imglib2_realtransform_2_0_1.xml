@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imglib2:imglib2-realtransform:2.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-realtransform/2.0.1/f3aca018546ce3df0a3912d137e5e8d7c25b3ef5/imglib2-realtransform-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imglib2/imglib2-realtransform/2.0.1/79217edeae3b49c465dbdf30d6287944a2077204/imglib2-realtransform-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

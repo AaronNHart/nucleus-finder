@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-plugins-commands:0.8.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-commands/0.8.1/9e7ad9229559e3fb9c9e187bd9d5e51fc4a17e46/imagej-plugins-commands-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-plugins-commands/0.8.1/841d20aaff55dc7db04fea45b82c25cafa6af12d/imagej-plugins-commands-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-ui-swing:0.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ui-swing/0.22.0/9a653e479e778ede224fb98b5244fa4b0c0c14c4/imagej-ui-swing-0.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-ui-swing/0.22.0/d1f79b26d46e57bb1eb0b51c7ef0a15cae0dd978/imagej-ui-swing-0.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

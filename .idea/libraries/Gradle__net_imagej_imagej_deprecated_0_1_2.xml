@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.imagej:imagej-deprecated:0.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-deprecated/0.1.2/bc3f889f3798fb264f47b6fbec230a4c2325eb8d/imagej-deprecated-0.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.imagej/imagej-deprecated/0.1.2/7594cd4ea37555a26e57b5d425f9621f75cd3fc6/imagej-deprecated-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

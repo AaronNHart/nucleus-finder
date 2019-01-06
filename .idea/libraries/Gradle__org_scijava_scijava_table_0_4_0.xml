@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scijava-table:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-table/0.4.0/f364eb47a8d54d73337d6390815c984b0fbfd799/scijava-table-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scijava-table/0.4.0/bf3b4492d01038397bd08e99995d8f62aafe120c/scijava-table-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

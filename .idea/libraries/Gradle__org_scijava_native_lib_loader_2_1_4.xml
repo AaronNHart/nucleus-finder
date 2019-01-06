@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:native-lib-loader:2.1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/native-lib-loader/2.1.4/9c090713249cbff5a3f0a8e810cfac1c66cc15c/native-lib-loader-2.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/native-lib-loader/2.1.4/6ecb297a61d297ef01114fe8820412ca573a8bba/native-lib-loader-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

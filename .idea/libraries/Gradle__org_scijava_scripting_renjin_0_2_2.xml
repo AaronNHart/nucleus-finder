@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-renjin:0.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-renjin/0.2.2/e5391ed2585cd1e21be795b18c0948f98c5a0704/scripting-renjin-0.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-renjin/0.2.2/fcc4066d9198805432ae4a942c9255e9c1e7d172/scripting-renjin-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

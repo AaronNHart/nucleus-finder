@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.scijava:scripting-beanshell:0.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-beanshell/0.3.3/4983614405170bf29edbb667d5cb6a57681d6d13/scripting-beanshell-0.3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scijava/scripting-beanshell/0.3.3/a0a19b4671ff6d6573ad52e7933eca7b10359c28/scripting-beanshell-0.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
